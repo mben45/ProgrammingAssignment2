@@ -2,6 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
+
 ## makeCacheMatrix contains a list of four functions :
 ## set the value of the matrix
 ## get the value of the matrix
@@ -24,6 +25,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 ## Write a short comment describing this function
+
 ## cacheSolve calculates the inverse of the special matrix.
 ## If is has already ben calculated or set with the setinverse function,
 ## it gets the inverse from the cache et skips the computation.
